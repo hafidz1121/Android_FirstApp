@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="hello_selamat_datang">Hello Selamat Datang!</string>
+    <string name="todo">TODO</string>
+    <string name="foto_ketika_berada_di_puncak_gunung_butak">Foto Ketika Berada di Puncak Gunung Butak</string>
+    <string name="foto_di_puncak_gunung_butak">Foto Di Puncak Gunung Butak</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_ante_odio_bibendum_ac_libero_eget_bibendum_commodo_ipsum_cras_vestibulum_arcu_ac_sapien_imperdiet_sed_aliquet_tortor_tristique_proin_a_leo_turpis_nam_eu_mi_sollicitudin_sollicitudin_erat_ut_hendrerit_justo_praesent_eu_arcu_non_sem_porta_finibus_nunc_accumsan_aliquam_nulla_ac_lobortis_mauris_tincidunt_sit_amet_nam_efficitur_tellus_eleifend_mollis_condimentum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante odio, bibendum ac libero eget, bibendum commodo ipsum. Cras vestibulum arcu ac sapien imperdiet, sed aliquet tortor tristique. Proin a leo turpis. Nam eu mi sollicitudin, sollicitudin erat ut, hendrerit justo. Praesent eu arcu non sem porta finibus. Nunc accumsan aliquam nulla, ac lobortis mauris tincidunt sit amet. Nam efficitur tellus eleifend mollis condimentum.</string>
+    <string name="fotbar_di_puncak_bekel">Fotbar Di Puncak Bekel</string>
+    <string name="foto_bersama_di_gunung_bekel">Foto Bersama DI Gunung Bekel</string>
+    <string name="hafidz_fadhillah">Hafidz Fadhillah</string>
+    <string name="hafidzfadhillah606_gmail_com">hafidzfadhillah606@gmail.com</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
